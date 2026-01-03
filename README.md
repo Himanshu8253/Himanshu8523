@@ -114,8 +114,8 @@ Aspiring **SOC Tier 1 Analyst** seeking an entry-level role in a Security Operat
 
 ## 📫 Contact
 
-- **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN-HERE  
-- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/himanshu-pandey-25a175281  
+- **Email:** himanshu78781@gmail.com  
 
 ---
 
