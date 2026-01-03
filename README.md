@@ -13,7 +13,7 @@ Aspiring **SOC Tier 1 Analyst** seeking an entry-level role in a Security Operat
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills 
 
 | Skill | Associated Project |
 |------|------------------|
